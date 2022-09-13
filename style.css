@@ -1,0 +1,22 @@
+body {
+    background-color: #5D6D7E;
+}
+
+
+/* p {
+    background-color: #40E0D0;
+} */
+.p1 {
+    background-color: #FFBF00;
+    border: 3px solid black;
+}
+
+.p2 {
+    background-color: #CCCCFF;
+    border: 3px solid black;
+}
+
+.p3 {
+    background-color: #40E0D0;
+    border: 3px solid black;
+}
